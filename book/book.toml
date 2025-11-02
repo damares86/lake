@@ -1,0 +1,10 @@
+[book]
+authors = ["davide"]
+language = "en"
+src = "src"
+title = "Rustix User Guide"
+
+[output.html]
+root = "/guida/"
+additional-css = ["assets/custom.css"]
+additional-js = ["assets/custom.js"]

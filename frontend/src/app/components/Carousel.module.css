@@ -1,0 +1,31 @@
+.carousel {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: flex-start;
+  padding: 1rem;
+  margin-top: -70px;
+}
+
+.card {
+  flex: 1 1 calc(33.333% - 1rem);
+  min-width: 280px;
+  max-width: 100%;
+  background: #1a1a1a;
+  padding: 20px 20px 20px 20px;
+  margin: 2rem auto;            /* center horizontally */
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  box-sizing: border-box;
+  width: 400px;                 /* optional: fixed width for better alignment */
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 30px;
+}
