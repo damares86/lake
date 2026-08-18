@@ -1,4 +1,4 @@
-# salomon
+# lake
 
 Framework modulare sviluppato in Rust.
 
@@ -6,7 +6,7 @@ Framework modulare sviluppato in Rust.
 
 ### Avvio dell'applicazione rust
 
-Dentro la cartella `salomon` dare questo comando:
+Dentro la cartella `lake` dare questo comando:
 ```bash
 cargo run -p app
 ```
