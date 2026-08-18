@@ -19,9 +19,9 @@ N.B. Se la guida è stata modificata, nella root del progetto va dato il comando
 
 ### Avvio del frontend
 
-N.B. Se è la prima volta, entro la cartella `salomon/frontend` dare questo comando: `npm install`, che scaricherà tutto il necessario
+N.B. Se è la prima volta, entro la cartella `lake/frontend` dare questo comando: `npm install`, che scaricherà tutto il necessario
 
-Dentro la cartella `salomon/frontend` dare questo comando:
+Dentro la cartella `lake/frontend` dare questo comando:
 ```bash
 npm run dev
 ```
